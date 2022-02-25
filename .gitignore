@@ -177,3 +177,8 @@ wandb/
 lightning_logs/
 pytorchlightning/
 
+# MNIST 
+MNIST/
+
+# ckeckpoint
+*.ckpt
